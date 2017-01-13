@@ -1,6 +1,9 @@
 # SpotlightProducts
 
-Designed, developed and implemented an E-Commerce platform for selling innovative products from scratch. The web application can be used to sell general products along with a separate section for innovative and creative products.
+Disclaimer:
+Implementation includes contributions from me and my teammates(Group size of 3)
+
+SpotlightProducts is an E-Commerce platform for selling innovative products. The web application can be used to sell general products along with a separate section for innovative and creative products.
 The key features implemented in the application are:
 1] Login - Contained four functionalities such as login, new user registration, forgot password and logout.
 2] Search - The user can search products based on product category, product brand, product name, model ID and seller name.
@@ -12,4 +15,4 @@ The key features implemented in the application are:
 8] Payment - Once the user submits shipping address and card information a confirmation email was sent to the user.
 9] Customer Support Page - The user can add a query or complain on this page.
 
-Technologies: MySQL, Java Spring MVC,Java HttpSessions, RESTful API, HTML, CSS, Bootstrap, JavaSscript, JQuery, AngularJS, Google Charts, Gmail API
+Technologies: MySQL, Java Spring MVC, Java HttpSessions, RESTful API, HTML, CSS, Bootstrap, JavaSscript, JQuery, AngularJS, Google Charts, Gmail API
